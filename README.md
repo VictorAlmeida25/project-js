@@ -1,1 +1,1 @@
-# project-js
+- A guide to your studies, contains a stopwatch, and a todo list!
